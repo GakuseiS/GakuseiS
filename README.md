@@ -10,6 +10,7 @@
   </ul>
 </ul>
 <h1>📊 GitHub Stats:</h1>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gakuseis&layout=compact&hide=ruby)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
