@@ -5,6 +5,7 @@
   <li>I'm interested in React, Typescript, NextJS</li>
   <li>How to reach me:</li>
   <ul>
+    <li><a href="https://career.habr.com/gakusei96">Habr career</a></li>
     <li><a href="https://t.me/ilya_sp96">TG: @ilya_sp96</a></li>
     <li><a href="mailto:ilya_spiridonov69@mail.ru">ilya_spiridonov69@mail.ru</a></li>
   </ul>
