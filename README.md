@@ -1,7 +1,7 @@
 <h1>About me:</h1>
 <ul>
   <li>👋 Hi, I'm Ilya</li> 
-  <li>1,5+ year expirience FE developer</li>
+  <li>2+ year expirience FE developer</li>
   <li>I'm interested in React, Typescript, NextJS</li>
   <li>How to reach me:</li>
   <ul>
