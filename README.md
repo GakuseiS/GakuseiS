@@ -1,6 +1,6 @@
 <h1>About me:</h1>
 <p>Hello 👋</p>
-<p>My name is Ilya, I am a web frontend developer with 2+ years of experience.</p>
+<p>My name is Ilya, I am a web frontend developer with 3 years of experience.</p>
 <p>I am using default stack HTML/CSS/JS, React, NextJS, TypeScript.</p>
 <p>Contacts: </p>
 <ul>
