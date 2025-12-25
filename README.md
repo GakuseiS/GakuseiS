@@ -8,9 +8,6 @@
   <li><a href="https://t.me/ilya_sp96">TG: @ilya_sp96</a></li>
   <li><a href="mailto:ilya_spiridonov69@mail.ru">i.spiridonov96@yandex.ru</a></li>
 </ul>
-<h1>📊 GitHub Stats:</h1>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gakuseis&layout=compact&hide=ruby)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **GakuseiS/GakuseiS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
