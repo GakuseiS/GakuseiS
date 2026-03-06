@@ -4,7 +4,6 @@
 <p>I am using default stack HTML/CSS/JS, React, NextJS, TypeScript.</p>
 <p>Contacts: </p>
 <ul>
-  <li><a href="https://career.habr.com/gakusei96">Habr career</a></li>
   <li><a href="https://t.me/ilya_sp96">TG: @ilya_sp96</a></li>
   <li><a href="mailto:ilya_spiridonov69@mail.ru">i.spiridonov96@yandex.ru</a></li>
 </ul>
